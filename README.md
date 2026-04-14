@@ -1,7 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Shuvra%20Mitra&fontSize=50&fontColor=ffffff)
 <h1 align="center">Hi 👋, I'm Shuvra Mitra</h1>
 <h3 align="center">🌟 An Aspiring Software Developer | Enthusiastic Coder | Lifelong Learner from Bangladesh🌱</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/fa190b4fb6ce7411b86a20caebabc1a4c80055bb2a051b53cb8a5898a6861c35/68747470733a2f2f7777772e6368617774656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f646576656c6f7065722e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvramitra&label=Profile%20views&color=0e75b6&style=flat" alt="shuvramitra" /> </p>
 
 
